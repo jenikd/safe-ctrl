@@ -1,0 +1,17 @@
+{
+  "name": "safe-control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@safe-global/sdk-starter-kit": "../safe-core-sdk/packages/sdk-starter-kit",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "minimist": "^1.2.8"
+  }
+}
